@@ -1,4 +1,0 @@
-Git is very useful
-Git helps track changes
-Git is awesome
-hi
